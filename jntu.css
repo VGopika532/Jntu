@@ -1,0 +1,33 @@
+header{
+    background-color: aqua;
+    padding: 30px;
+    font-family: Verdana;
+    
+    font-size: 50px;
+    text-align: center;
+}
+nav{
+    float: left;
+    background-color: blanchedalmond;
+    width: 500px;
+    padding: 30px;
+    height: 500px;
+    list-style-type: none;
+}
+
+nav li a{
+   text-decoration: none;
+} 
+article{
+    float: left;
+    width: 500px;
+    height: 40px;
+    background-color: brown;
+}
+footer{
+    
+   background-color: aquamarine;
+   padding: 30px;
+   font-size: larger;
+    text-align: center;
+}
